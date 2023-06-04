@@ -97,10 +97,10 @@ html {
   font-weight: 500;
 }
 .person-comment p {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   color: hsl(210, 46%, 95%);
   opacity: 70%;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 .white-p p {
   color: hsl(217, 19%, 35%);
