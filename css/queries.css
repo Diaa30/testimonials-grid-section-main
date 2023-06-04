@@ -1,0 +1,26 @@
+@media (max-width: 375px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: initial;
+  }
+  .big-box {
+    grid-column: 1/1;
+    height: fit-content;
+  }
+  .box-one {
+    grid-row: 1;
+  }
+  .box-two {
+    grid-row: 2;
+  }
+  .box-three {
+    grid-row: 3;
+  }
+  .box-four {
+    grid-row: 4;
+  }
+  .box-five {
+    grid-row: 5;
+  }
+}
